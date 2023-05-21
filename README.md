@@ -21,7 +21,7 @@ Let's harness the power of data and technology to solve complex problems and sha
 ### Experience 👨🏻‍💻
 
 - MLOps Intern - Munich RE (Oct 2022 - Present)
-- - Student Research Assistant - TU Dortmund (Aug 2021 – Oct 2022)
+- Student Research Assistant - TU Dortmund (Aug 2021 – Oct 2022)
 - Machine Learning Engineer - TCS (July 2018 - Mar 2021)
 
 ### Education 📚
