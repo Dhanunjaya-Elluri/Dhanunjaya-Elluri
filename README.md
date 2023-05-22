@@ -14,11 +14,11 @@ Hello! I'm Dhanunjaya Elluri, a passionate Data Scientist and MLOps engineer wit
 - Bachelors in Computer Science at SSIT (Aug 2014 - Sep 2018)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](mailto:dhanunjayet@gmail.com)
 [<img alt="LinkedIn" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/dhanunjaya-elluri/)
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" >](https://twitter.com/dhanunjayet)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanunjay_e)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" >](https://instagram.com/dhanunjay_e)
 
 # 💻 Tech Stack:
 ### Languages:
