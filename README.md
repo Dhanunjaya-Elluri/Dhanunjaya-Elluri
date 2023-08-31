@@ -6,7 +6,7 @@ Hello! I'm Dhanunjaya Elluri, a passionate Data Scientist and MLOps engineer wit
 
 - MLOps Intern - Munich RE (Oct 2022 - Present)
 - Student Research Assistant - TU Dortmund (Aug 2021 – Oct 2022)
-- Data Scientist - TCS (July 2018 - Mar 2021)
+- Data Scientist - TCS (June 2018 - May 2021)
 
 ### Education 📚
 
