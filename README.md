@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I'm Dhanunjaya Elluri, a dedicated Data Scientist and MLOps Engineer with a focus on AI and ML. Currently, I'm an MLOps intern at Munich RE, deploying ML models in production, and a Data Science master's student at TU Dortmund, enhancing my expertise in data-driven methods.
+Hi, I'm Dhanunjaya Elluri, a dedicated Data Scientist and MLOps Engineer with a focus on AI and ML. Currently, I'm working as a Machine Learning Engineer at [Validaitor](https://validaitor.com) for AI safety with focus on LLMs. Previously I worked as MLOps Engineer intern at Munich Reinsurance, for building in-house MLOps platform. Parallelly, I'm a Data Science master's student at TU Dortmund, enhancing my expertise in data-driven methods.
 
 My research is centered on Time Series Analysis and NLP, where I explore the complexities of temporal data and the intricacies of language through technology. My thesis ["Transformers for Quantized Time Series Forecasting"](https://github.com/Dhanunjaya-Elluri/master-thesis) aims to improve forecasting with advanced transformer techniques and Kernel SAX.
 
@@ -8,7 +8,8 @@ Check out my GitHub for projects that showcase my commitment to Data Science, ML
 
 ### Experience 👨🏻‍💻
 
-- MLOps Intern - Munich RE (Oct 2022 - Present)
+- Machine Learning Engineer - Validaitor (Feb 2024 - Present)
+- MLOps Intern - Munich RE (Oct 2022 - Jan 2024)
 - Student Research Assistant - TU Dortmund (Aug 2021 – Oct 2022)
 - Data Scientist - TCS (June 2018 - May 2021)
 
