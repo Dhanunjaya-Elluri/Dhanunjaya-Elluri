@@ -15,5 +15,5 @@ Check out my GitHub for projects that showcase my commitment to Data Science, ML
 
 ### Education 📚
 
-- Masters in Data Science at TU Dortmund (April 2021 - Present)
+- Masters in Data Science at TU Dortmund (April 2021 - March 2024)
 - Bachelors in Computer Science at SSIT (Aug 2014 - Sep 2018)
