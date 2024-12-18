@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+Visit my website [here](https://dhanunjaya-elluri.github.io/profile-cv/).
+
 Hi there. I'm Dhanunjaya Elluri, a dedicated data scientist and MLOps engineer focused on AI and ML. I'm currently working as a Machine Learning Engineer at [Validaitor](https://validaitor.com) for AI safety with a focus on LLMs. Previously, I worked as an MLOps Engineer intern at Munich Reinsurance, building an in-house MLOps platform. I've completed my master's in Data Science at TU Dortmund.
 
 My research is centered on Time Series Analysis and NLP, where I explore the complexities of temporal data and the intricacies of language through technology. My thesis ["Transformers for Quantized Time Series Forecasting"](https://github.com/Dhanunjaya-Elluri/master-thesis) aims to improve forecasting with advanced transformer techniques and Kernel SAX.
