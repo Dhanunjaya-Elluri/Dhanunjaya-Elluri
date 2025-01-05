@@ -8,7 +8,7 @@ My research is centered on Time Series Analysis and NLP, where I explore the com
 
 Check out my GitHub for projects that showcase my commitment to Data Science, ML, and MLOps. I'm open to collaborations and discussions that push the boundaries of data and tech. Let's connect and drive innovation together!
 
-### My Open Source Contributions:
+### OSS 💻
 - [narwhals](https://github.com/narwhals-dev/narwhals)
 - [The Little Book of ML Metrics](https://github.com/NannyML/The-Little-Book-of-ML-Metrics)
 
