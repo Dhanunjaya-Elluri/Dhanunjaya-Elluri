@@ -14,7 +14,8 @@ Check out my GitHub for projects that showcase my commitment to Data Science, ML
 
 ### Experience 👨🏻‍💻
 
-- Machine Learning Engineer - Validaitor (Jan 2024 - Present)
+- MLOps Engineer - KARL STORZ (Mar 2025 - Present)
+- Machine Learning Engineer - Validaitor (Jan 2024 - Dec 2024)
 - MLOps Intern - Munich RE (Oct 2022 - Dec 2024)
 - Student Research Assistant - TU Dortmund (Aug 2021 – Oct 2022)
 - Data Scientist - TCS (June 2018 - May 2021)
